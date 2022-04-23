@@ -4,3 +4,5 @@
 You may now new Microsoft app, Bing Wallpaper, which changes wallpapers once a day. Well, this is exactly the same, except is fully open source.
 ## Compatibility
 You will find the notes about it in Releases.
+## Pull requests
+Pull requests are welcome. If you know how to implemnt Unix wallpaper change, i really need that. 

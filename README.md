@@ -5,4 +5,4 @@ You may now new Microsoft app, Bing Wallpaper, which changes wallpapers once a d
 ## Compatibility
 You will find the notes about it in Releases.
 ## Pull requests
-Pull requests are welcome. If you know how to implemnt Unix wallpaper change, i really need that. 
+Pull requests are welcome. If you know how to implemnt Unix wallpaper change, I really need that. 

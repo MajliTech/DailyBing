@@ -1,13 +1,9 @@
 import pause
 import requests
-import struct
 import ctypes
 import os
 import ctypes
 import win32con
-import os
-
-
 def SetWallpaper(path):
     changed = win32con.SPIF_UPDATEINIFILE | win32con.SPIF_SENDCHANGE
     ctypes.windll.user32.SystemParametersInfoW(win32con.SPI_SETDESKWALLPAPER,

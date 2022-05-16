@@ -1,5 +1,5 @@
 # DailyBing
-[![Open Source? Yes](https://badgen.net/badge/Open%20Source/Yes/green)](https://github.com/Naereen/badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?color=yellow)](https://www.python.org/)[![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label) [![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label)](https://microsoft.com/windows/) ![Maintained?](https://badgen.net/badge/Maintained/Yes/green)
+[![Open Source? Yes](https://badgen.net/badge/Open%20Source/Yes/green)](https://github.com/Naereen/badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?color=yellow)](https://www.python.org/)[![Windows](https://badgen.net/badge/icon/Windows?icon=windows&label) ![Maintained?](https://badgen.net/badge/Maintained/Yes/green)
 
 ![Made for Lively ](https://badgen.net/badge/Made%20for/Lively%20Wallpaper/red)
 ## About
